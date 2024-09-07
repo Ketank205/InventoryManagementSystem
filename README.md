@@ -1,2 +1,2 @@
 "# InventoryManagementSystem" 
-Do check out config before cloning.
+# Do check out config before cloning.
